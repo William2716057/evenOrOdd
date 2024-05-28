@@ -12,3 +12,4 @@ C:\Users\Wills\source\repos\evenOrOdd\evenOrOdd\obj\Debug\net8.0\refint\evenOrOd
 C:\Users\Wills\source\repos\evenOrOdd\evenOrOdd\obj\Debug\net8.0\evenOrOdd.pdb
 C:\Users\Wills\source\repos\evenOrOdd\evenOrOdd\obj\Debug\net8.0\evenOrOdd.genruntimeconfig.cache
 C:\Users\Wills\source\repos\evenOrOdd\evenOrOdd\obj\Debug\net8.0\ref\evenOrOdd.dll
+C:\Users\Wills\source\repos\evenOrOdd\evenOrOdd\obj\Debug\net8.0\evenOrOdd.sourcelink.json

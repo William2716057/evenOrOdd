@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("evenOrOdd"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+166b2e367187801c76212b45c7b1cbf70a8d461c"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("evenOrOdd"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("evenOrOdd"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
